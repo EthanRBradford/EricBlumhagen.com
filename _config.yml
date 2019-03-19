@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Forrest Bradford
-email: ElectForrestBradford@gmail.com
+title: Eric Blumhagen
+email: ElectEricBlumhagen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Campaign site for Forrest Bradford, running as state legislator for the Massachusetts Third Hampden District, representing Agawam, Granville, and Southwick Massachusetts.
+  User site for Eric Blumhagen.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://ForrestBradford.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://EricBlumhagen.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  EthanRBradford
 background-image: "linear-gradient(120deg, #155799, #159957)"
