@@ -1,12 +1,12 @@
 - name: Home
   link: /
-- name: Bio
-  link: /about.html
-- name: Hear&nbsp;Forrest
-  link: /podcasts.html
-- name: Platform
-  link: /platform.html
-- name: News
-  link: /news.html
-- name: Contact
-  link: /contact.html
+#x - name: Bio
+#x   link: /about.html
+#x - name: Hear&nbsp;Forrest
+#x   link: /podcasts.html
+#x - name: Platform
+#x   link: /platform.html
+#x - name: News
+#x   link: /news.html
+#x - name: Contact
+#x   link: /contact.html
